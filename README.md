@@ -7,6 +7,8 @@
 
 > **Profile and visualize energy consumption of Python code** on laptops, desktops, and Raspberry Pi devices. No external services or paid APIs required.
 
+![py-power-profile Demo](py_power_profile/assets/py-power.gif)
+
 ## 🚀 Quick Start
 
 ```bash
